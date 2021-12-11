@@ -1,83 +1,35 @@
 #EXTM3U 
-#EXTINF:-1, DSTV live  
+#EXTINF:-1, DSTV WATCH MORE ON OMOHAK TV  
  
 #EXTINF:0,|DSTV| SuperSport 1 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61152 
 #EXTINF:0,|DSTV| SuperSport 2 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61153 
 #EXTINF:0,|DSTV| SuperSport 3 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61154 
 #EXTINF:0,|DSTV| SuperSport 4 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61155 
 #EXTINF:0,|DSTV| SuperSport 5 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61156 
 #EXTINF:0,|DSTV| SuperSport 6 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61157 
 #EXTINF:0,|DSTV| SuperSport 7 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61158 
 #EXTINF:0,|DSTV| SuperSport 8 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61159 
 #EXTINF:0,|DSTV| SuperSport 9 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61160 
 #EXTINF:0,|DSTV| SuperSport 10 FHD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61161
 #EXTINF:0,|DSTV| SUPERSPORT EPL HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT FOOTBALL HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52874.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT VARIETY 1 HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52871.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT VARIETY 2 HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52872.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT VARIETY 3 HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52292.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT VARIETY 4 HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52873.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT LA LIGA HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT ACTION HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52300.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT PSL HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52291.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT MAXIMO HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53021.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT RUGBY HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52296.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT GOLF HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52298.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT GOLF HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-#EXTINF:0,|DSTV| SUPERSPORT GRANDSTAND HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52290.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT TENNIS HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52297.m3u8
-#EXTINF:0,|DSTV| SUPERSPORT BLITZ HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52301.m3u8
-#EXTINF:0,|DSTV| Ginx eSports TV HD ZA 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61170 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
